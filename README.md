@@ -1,2 +1,2 @@
-# MeuPrimeiroRepositorio
-O meu primeiro repositório Institucional
+# Aula Git GitHub
+## Iniciação do repositório institucional
